@@ -1,0 +1,34 @@
+RoomName: Drift Kitchen
+Number: 1
+Desc: The Famous Cafe
+Desc: Known for lattes, frappes, and sandwiches
+Exit: South 2
+Exit: North 6
+RoomName: Bondo
+Number: 2
+Desc: Elite beach condo
+Desc: View watching occurs here frequently
+Exit: North 1
+Exit: West 3
+RoomName: La Tapatia
+Number: 3
+Desc: Delicious hispanic restaurant
+Desc: Operated by a 2 man unit
+Exit: South 4
+Exit: East 2
+RoomName: Land of Tampico
+Number: 4
+Desc: These lands have seen better times
+Desc: Protected by a 1 man unit
+Exit: North 3
+Exit: West 5
+RoomName: Pondo Ruins
+Number: 5
+Desc: Holy location 
+Desc: Over 10,000 warriors have battled here
+Exit: East 4
+RoomName: Staybridge Suites
+Number: 6
+Desc: Location of the Original Explosion
+Desc: Large amounts of sliming occur here
+Exit: South 1
